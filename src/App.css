@@ -57,3 +57,14 @@ ul, li {
     text-align: center;
     cursor: pointer;
 }
+
+
+.deleteAllBtn {
+    text-align: right;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.deleteAllBtn:hover {
+    text-decoration: underline;
+}
