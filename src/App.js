@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Contacts from './components/Contacts';
 import List from './components/Contacts/List';
